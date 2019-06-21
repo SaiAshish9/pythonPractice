@@ -105,11 +105,39 @@
 # print(point1.x)
 # point1.draw()
 
+#
+# class Mammal():
+#     def walk(self):
+#         print("walk")
+# class Dog(Mammal):
+#     pass
+# x=Dog()
+# x.walk()
+#print(i,end="")
+# i=int(input(""))
+# y=""
+# for x in range(i):
+#    y+=str(x)
+#    x+=1
+# print(int(y))
 
-class Mammal():
-    def walk(self):
-        print("walk")
-class Dog(Mammal):
-    pass
-x=Dog()
-x.walk()
+# from converters import kg_to_lbs
+#
+# print(kg_to_lbs(0.45))
+
+# import ecommerce.shipping
+# ecommerce.shipping.shipping()
+#randint(11,20)
+# import random
+# members=['sai','asd','dsd']
+# print(random.choice(members))
+# import random
+# class Dice():
+#     def roll(self):
+#         x=random.randint(1,6)
+#         y=random.randint(1,6)
+#         return x,y
+# D=Dice()
+# print(D.roll())
+
+
